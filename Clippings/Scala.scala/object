@@ -1,0 +1,6 @@
+#INDENT#
+object #PLACEHOLDERSTART#ClassName#PLACEHOLDEREND# {
+
+  #INSERTION#
+  
+}
