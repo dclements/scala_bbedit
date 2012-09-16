@@ -3,6 +3,17 @@ Scala BBEdit Utilities
 
 Tools for programming in Scala with BBEdit.
 
+Scripts
+=======
+
+These are experimental and extremely rudimentary.  They have little to no error checking
+or input validation and they are a little finicky about what you pass into them. 
+
+For the `sbt` scripts select your `build.sbt` file, since that is the directory you
+generally want to run `sbt` from. 
+
+For the scala `help` script, select any single word that you want to search on.
+
 Legal
 ======
 
